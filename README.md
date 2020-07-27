@@ -1,4 +1,4 @@
-# VideoToPhasedAudioTransform
+# VideoToPhasedAudioTransformer
 
 This transforms a mp4 or mov file into a phased audio wav file.  It's largely useless but fun and goes with the other project on my github repos page.  (SoundPhaseVisualizer)
 
